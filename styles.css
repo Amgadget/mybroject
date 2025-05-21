@@ -1,0 +1,25 @@
+body{
+    text-align: right;
+}
+
+footer {
+    margin: -17px;
+    background-color: #050450;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+a {
+    color: #271c8a;
+ 
+}
+
+
+
+
+
+
+
